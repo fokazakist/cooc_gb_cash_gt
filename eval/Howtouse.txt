@@ -1,0 +1,1 @@
+$./evaluator -f resultfilename [modelname] [eval data filename]

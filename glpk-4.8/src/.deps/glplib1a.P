@@ -1,0 +1,6 @@
+glplib1a.o: glplib1a.c \
+ /opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include/stddef.h \
+ ../include/glplib.h
+glplib1a.c :
+/opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include/stddef.h :
+../include/glplib.h :

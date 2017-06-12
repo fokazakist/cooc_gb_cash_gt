@@ -1,0 +1,18 @@
+glpipm.o: glpipm.c \
+ /opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include-fixed/math.h \
+ /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+ /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+ /usr/include/AvailabilityInternal.h \
+ /opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include/stddef.h \
+ ../include/glpipm.h ../include/glplib.h ../include/glpmat.h
+glpipm.c :
+/opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include-fixed/math.h :
+/usr/include/sys/cdefs.h :
+/usr/include/sys/_symbol_aliasing.h :
+/usr/include/sys/_posix_availability.h :
+/usr/include/Availability.h :
+/usr/include/AvailabilityInternal.h :
+/opt/local/lib/gcc5/gcc/x86_64-apple-darwin15/5.4.0/include/stddef.h :
+../include/glpipm.h :
+../include/glplib.h :
+../include/glpmat.h :
