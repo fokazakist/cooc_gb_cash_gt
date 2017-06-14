@@ -151,7 +151,7 @@ void Gspan::lpboost(){
   double beta = 0.0;
   double margin = 0.0;
   unsigned int litr = 0; // the number of iterations
-  
+  cooc_is_opt = false;
   //main loop
   for(unsigned int itr=0;itr < max_itr;++itr){
     std::cout <<"itrator : "<<itr+1<<std::endl;
